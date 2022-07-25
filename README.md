@@ -1,5 +1,5 @@
 # Summarizer-with-Pointer-Generator-Networks
-
+implementation for the ACL 2017 paper [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
 ## Usage
 
 `python2 main_final.py` to generate result.txt
